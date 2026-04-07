@@ -47,7 +47,7 @@ Solved business questions such as:
 
 📷 Dashboard Preview
 
-![Dashboard](customer_behavior.png)
+![Dashboard](customer_behaviour.png)
 ---
 
 🚀 How to Run the Project
@@ -90,9 +90,3 @@ Improved data analysis and visualization skills
 🔗 References
 
 Walkthrough Video: (https://youtu.be/5PrZvPeUw60?si=F88rXWN38H3Tp1be)
-
-- Add **multiple SQL questions (your real ones)**  
-- Make it look like a **top-tier portfolio project**  
-- Or tailor it for **data analyst job applications**  
-
-Just send your SQL queries 👍
