@@ -47,7 +47,7 @@ Solved business questions such as:
 
 📷 Dashboard Preview
 
-
+![Dashboard](customer_behavior.png)
 ---
 
 🚀 How to Run the Project
