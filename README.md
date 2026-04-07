@@ -46,7 +46,7 @@ Solved business questions such as:
 - Analyzed product performance and KPIs
 
 📷 Dashboard Preview
-![Logo](customer_behaviour.png)
+![Logo](customer_behaviour .png)
 
 🚀 How to Run the Project
 
