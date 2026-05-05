@@ -83,8 +83,3 @@ Understood end-to-end data analytics workflow
 Learned how Python, SQL, and Power BI integrate
 
 Improved data analysis and visualization skills
-
-
-🔗 References
-
-Walkthrough Video: (https://youtu.be/5PrZvPeUw60?si=F88rXWN38H3Tp1be)
